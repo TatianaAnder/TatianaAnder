@@ -2,7 +2,8 @@
 
 **Junior Front-End Developer** based in Florida, US.
 
-I build responsive, production-ready web applications — from design to deployment. I've shipped real client projects with measurable results and I'm currently building **LearnIt**, an AI-powered learning platform using React, Next.js, and Claude AI.
+I build responsive, production-ready web applications — from design to deployment. https://cari2ge.com/
+I've shipped real client projects with measurable results and I'm currently building **LearnIt**, an AI-powered learning platform using React, Next.js, and Claude AI.
 
 ---
 
