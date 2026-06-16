@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Tatiana 👋
 
-<!--
-**TatianaAnder/TatianaAnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Front-End Developer** based in Florida, US.
 
-Here are some ideas to get you started:
+I build responsive, production-ready web applications — from design to deployment. I've shipped real client projects with measurable results and I'm currently building **LearnIt**, an AI-powered learning platform using React, Next.js, and Claude AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:** HTML5 · CSS3 · SASS · JavaScript (ES6+) · TypeScript  
+**Frameworks:** React · Next.js · Tailwind CSS · Angular · Webpack  
+**Tools:** Git · GitHub · Vercel · Netlify · Figma · Canva · Chrome DevTools · Jest  
+**CMS & Collab:** WordPress · Joomla · Jira  
+**AI-Assisted Dev:** Claude AI (code generation, debugging, architecture)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [Pricing Calculator](https://github.com/TatianaAnder/pricing) | Real freelance project — interactive telecom pricing tool | HTML · CSS · JS | [Demo](https://tatianaander.github.io/pricing) |
+| [D&M Lease Cars](https://github.com/TatianaAnder/leaseCars) | Multi-page responsive car leasing website | HTML · CSS · JS | [Demo](https://tatianaander.github.io/leaseCars/) |
+| [2rism](https://github.com/TatianaAnder/2rism) | Travel discovery platform UI | HTML · CSS · JS | [Demo](https://tatianaander.github.io/2rism/) |
+| [Dice Game](https://github.com/TatianaAnder/dice-game) | Two-player browser dice game | Angular · TypeScript · SCSS | — |
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-kononenko-anderson-212856289/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:happytasha9933@gmail.com)
+
+---
+
+*Authorized to work in the US for any employer · Fluent in English and Russian*
