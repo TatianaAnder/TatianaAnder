@@ -13,7 +13,6 @@ I've shipped real client projects with measurable results and I'm currently buil
 **Frameworks:** React · Next.js · Tailwind CSS · Vite  
 **Tools:** Git · GitHub · Vercel · Netlify · Figma · Canva · Chrome DevTools · Jest  
 **CMS & Collab:** WordPress · Joomla · Jira  
-**AI-Assisted Dev:** Claude AI (code generation, debugging, architecture)
 
 ---
 
@@ -24,7 +23,6 @@ I've shipped real client projects with measurable results and I'm currently buil
 | [Pricing Calculator](https://github.com/TatianaAnder/pricing) | Real freelance project — interactive telecom pricing tool | HTML · CSS · JS | [Demo](https://tatianaander.github.io/pricing) |
 | [D&M Lease Cars](https://github.com/TatianaAnder/leaseCars) | Multi-page responsive car leasing website |React · TypeScript · CSS | [Demo](https://tatianaander.github.io/leaseCars/) |
 | [2rism](https://github.com/TatianaAnder/2rism) | Travel discovery platform UI | HTML · CSS · JS | [Demo](https://tatianaander.github.io/2rism/) |
-| [Dice Game](https://github.com/TatianaAnder/dice-game) | Two-player browser dice game | Angular · TypeScript · SCSS | — |
 
 ---
 
