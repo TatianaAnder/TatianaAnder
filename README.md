@@ -2,8 +2,12 @@
 
 **Junior Front-End Developer** based in Florida, US.
 
-I build responsive, production-ready web applications — from design to deployment. https://cari2ge.com/
-I've shipped real client projects with measurable results and I'm currently building **LearnIt**, an AI-powered learning platform using React, Next.js, and Claude AI.
+I build responsive, production-ready web applications — from design to deployment. 
+I've shipped real client projects with measurable results (my latest, 
+[cari2ge.com](https://cari2ge.com), generates leads for a study-abroad agency and 
+scores 99–100 on Lighthouse) and I'm currently building **LearnIt**, an AI-powered 
+learning platform using React, Next.js, and Claude AI.
+Recently took a production site's mobile Lighthouse score from 74 to 99 — I care about performance.
 
 ---
 
@@ -11,8 +15,9 @@ I've shipped real client projects with measurable results and I'm currently buil
 
 **Languages:** HTML5 · CSS3 · SASS · JavaScript (ES6+) · TypeScript  
 **Frameworks:** React · Next.js · Tailwind CSS · Vite  
-**Tools:** Git · GitHub · Vercel · Netlify · Figma · Canva · Chrome DevTools · Jest  
-**CMS & Collab:** WordPress · Joomla · Jira  
+**Tools:** Git · GitHub · Vercel · Netlify · Figma · Chrome DevTools · Jest  
+**Performance & Quality:** Lighthouse · Core Web Vitals · Accessibility (ARIA) · SEO · Google Search Console
+**Also worked with:** WordPress · Joomla · Jira 
 
 ---
 
@@ -20,9 +25,10 @@ I've shipped real client projects with measurable results and I'm currently buil
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
-| [Pricing Calculator](https://github.com/TatianaAnder/pricing) | Real freelance project — interactive telecom pricing tool | HTML · CSS · JS | [Demo](https://tatianaander.github.io/pricing) |
-| [D&M Lease Cars](https://github.com/TatianaAnder/leaseCars) | Multi-page responsive car leasing website |React · TypeScript · CSS | [Demo](https://tatianaander.github.io/leaseCars/) |
-| [2rism](https://github.com/TatianaAnder/2rism) | Travel discovery platform UI | HTML · CSS · JS | [Demo](https://tatianaander.github.io/2rism/) |
+| [Cari2ge](https://github.com/TatianaAnder/cari2ge) | Production marketing site for an education-consulting agency — 50+ client inquiries in 3 months, 99–100 Lighthouse scores | HTML · CSS · JS | [Website](https://cari2ge.com) |
+| [Pricing Calculator](https://github.com/TatianaAnder/pricing) | Interactive pricing tool built for a UK telecom company — live in production | HTML · CSS · JS | [Live](https://tel2.co.uk/#pricing) |
+| [D&M Lease Cars](https://github.com/TatianaAnder/leaseCars) | Multi-page car leasing site with React Router, favorites, and unit tests (Vitest + RTL) | React · TypeScript · CSS | [Demo](https://leasecars-tatiana.vercel.app/) |
+
 
 ---
 
