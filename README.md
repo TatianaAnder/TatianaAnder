@@ -34,8 +34,8 @@ performance is not an afterthought for me.
 
 ## 📊 GitHub Stats
 
-![Tatiana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaAnder&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaAnder&layout=compact&hide_border=true&count_private=true)
+![Tatiana's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TatianaAnder&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TatianaAnder&layout=compact&hide_border=true&count_private=true)
 
 ---
 
